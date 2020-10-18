@@ -8,7 +8,7 @@ body {
 }
 
 .image-area {
-	background-image:url('https://github.com/laurenalexis09/MyWebsite/blob/main/background.PNG?raw=true');
+background-image:url('https://github.com/laurenalexis09/MyWebsite/blob/main/background.PNG?raw=true');
   background-color:black;
   background-position: center center;
   background-size: cover;
